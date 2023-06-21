@@ -61,7 +61,7 @@ onMounted(() => {
             </div>
         </div>
     </div> 
-    <div class="pt-32">
+    <div class="pt-44">
         <div v-if="loading" class="flex justify-center items-center">
             <Icon name="svg-spinners:12-dots-scale-rotate" size="50" class="color-black"/>
         </div>
